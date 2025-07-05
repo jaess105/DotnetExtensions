@@ -7,3 +7,5 @@ riderModule.iml
 *.sln.DotSettings.user
 
 .idea
+.vs
+.vscode

@@ -3,6 +3,9 @@ using System.Diagnostics.CodeAnalysis;
 namespace Extensions.Core;
 
 // ReSharper disable once InconsistentNaming
+/// <summary>
+/// Provides extension methods for <see cref="IEnumerable{T}"/> and <see cref="string"/> to simplify common operations.
+/// </summary>
 public static class IEnumerableExtensions
 {
     /// <summary>

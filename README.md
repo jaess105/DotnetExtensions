@@ -6,3 +6,8 @@ The main usage of this repo is adding one or multiple projects to another soluti
 in another project.
 Currently there are no plans publishing this to NuGet.
 
+
+## License
+
+This repo is licensed under the [MIT](LICENSE) license.
+

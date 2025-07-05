@@ -1,3 +1,5 @@
+using System.Diagnostics.CodeAnalysis;
+
 namespace Extensions.Core;
 
 // ReSharper disable once InconsistentNaming

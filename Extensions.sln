@@ -1,8 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions.Core", "Extensions.Core\Extensions.Core.csproj", "{3823E5CC-517F-4904-90E9-8712145CBA74}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions.Core.Tests", "Extensions.Core.Tests\Extensions.Core.Tests.csproj", "{A1421298-472F-4767-82ED-9E8F87CD0ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions.Threading", "Extensions.Threading\Extensions.Threading.csproj", "{5DB4BB14-080A-4F45-B45C-CBC5C82730C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +21,9 @@ Global
 		{A1421298-472F-4767-82ED-9E8F87CD0ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1421298-472F-4767-82ED-9E8F87CD0ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1421298-472F-4767-82ED-9E8F87CD0ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB4BB14-080A-4F45-B45C-CBC5C82730C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB4BB14-080A-4F45-B45C-CBC5C82730C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB4BB14-080A-4F45-B45C-CBC5C82730C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB4BB14-080A-4F45-B45C-CBC5C82730C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
